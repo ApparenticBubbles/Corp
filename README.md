@@ -11,5 +11,5 @@ Our server link would be [here](https://discord.gg/qDZBRxu)
 The invite link is also in the server ^
 
 # Corp 
-Corp is developed by ApparenticBubbles, Train and Sage.
+Corp is developed by Lynx, Train and Sage.
 
