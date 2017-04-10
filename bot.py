@@ -41,4 +41,4 @@ async def sage(ctx):
     """Sage"""
     await client.say("""Sage is one of Corp's Developers. He codes other bots too!""")
 
-client.run('MzAwNDAzODE5MzQ5NTQwODY1.C80yuA.PahB5x8Tc2axyds5sRSvSgXwN70')
+client.run('token(NOT SHOWEN TO PUBLIC)')
