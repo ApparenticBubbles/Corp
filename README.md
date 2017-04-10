@@ -1,5 +1,5 @@
-# Corp
-Corp is a bot that has
+# Corp Bot
+A bot that has
 *Moderation
 *Fun
 *Basic Commands.
